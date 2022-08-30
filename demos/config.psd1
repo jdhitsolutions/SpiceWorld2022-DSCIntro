@@ -1,5 +1,6 @@
 @{
     #Node specific data
+    #allnodes is an array of hashtables, one per node
     AllNodes = @( 
        @{NodeName = "*"
          Features = @("Windows-Server-Backup","PowerShell","SNMP-Service")

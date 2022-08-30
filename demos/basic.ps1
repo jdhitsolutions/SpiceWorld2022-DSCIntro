@@ -3,7 +3,7 @@ configuration BasicServer {
 
     #always import this
     Import-DscResource -ModuleName PSDesiredStateConfiguration -ModuleVersion 1.1
-    #import required modules
+    #import required modules - pay attention to versioning
     Import-DSCResource -ModuleName ComputerManagementDSC -ModuleVersion 8.5.0
 
     Node $Computername {

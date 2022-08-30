@@ -36,6 +36,7 @@ Configuration CompanyServer {
  
         #$node is a built-in variable to represent each node in $AllNodes
         $Node.features.foreach({
+            #create the configuration element dynamically
                 WindowsFeature $_ {
                     Name                 = $_
                     Ensure               = 'Present'
