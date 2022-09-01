@@ -1,5 +1,7 @@
 # Configuration Management with DSC and Windows PowerShell
 
+![spiceworld 2022](images/spiceworld2022.png)
+
 The items in this repository include my presentation and demonstration materials for my session on getting started with Desired State Configuration (DSC). The session was part of [Spiceworld 2022](https://www.spiceworks.com/spiceworld/).
 
 ## Abstract
@@ -8,7 +10,7 @@ The items in this repository include my presentation and demonstration materials
 
 > All material is offered as-is and should be considered educational material. __Nothing in this repository should be considered production-ready__.
 
-## Learn More
+## Learn More :mortar_board:
 
 + [The DSC Community](https://dsccommunity.org/)
 + [DSC Oveview](https://docs.microsoft.com/powershell/scripting/dsc/overview)
