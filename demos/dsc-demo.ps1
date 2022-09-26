@@ -28,6 +28,9 @@ Invoke-Command {
  Get-Module ComputerManagementDSC -ListAvailable
 } -computername SRV1,SRV2
 
+
+#install ComputerManagementDSC v8.5 locally
+
 #>
 
 
